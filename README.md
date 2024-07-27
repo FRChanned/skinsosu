@@ -52,6 +52,14 @@ Credit: [Channed](https://osu.ppy.sh/users/13008533)
 <img src="https://canman.s-ul.eu/6Yrq9HLa" title="Ranking Panel (C)" alt="Skin screenshot of ranking panel (C)">
 <img src="https://canman.s-ul.eu/w4NCVjPG" title="Ranking Panel (D)" alt="Skin screenshot of ranking panel (D)">
 </details>
+
+### Links
+
+#### Download
+|Source|Standard|
+|------|--------|
+|GitHub|[Download](https://rektygon.s-ul.eu/LpO3ZXOQ)|
+|Google Drive|[View in Google Drive](https://drive.google.com/file/d/1niFXmiz-0ongWZLn7JrcXXfiCnDgIGwB/view?usp=sharing)|
 ___
 # Previous skins
 ## (soon:tm:)
