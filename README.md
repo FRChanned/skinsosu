@@ -3,7 +3,7 @@ Credit: [Channed](https://osu.ppy.sh/users/13008533)
 
 <details>
 <summary>MonkoEdit</summary>
-<img src="https://osu.ppy.sh/ss/19256883/dedf" title="Menu BG" alt="Skin screenshot of menu background">
+<img src="https://canman.s-ul.eu/5wbgxIws" title="Menu BG" alt="Skin screenshot of menu background">
 <img src="https://canman.s-ul.eu/5iMMK9d4" title="Song Select" alt="Skin screenshot of song select">
 <img src="https://canman.s-ul.eu/eB5CWFhR" title="Mod Icons" alt="Skin screenshot of mod icons">
 <img src="https://canman.s-ul.eu/kBlxOWYw" title="Gameplay" alt="Skin screenshot of gameplay">
